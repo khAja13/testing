@@ -1,0 +1,6 @@
+this is the version 1 of my project
+this text was added to do the 2nd commit
+changed by me 
+one
+two
+adf
